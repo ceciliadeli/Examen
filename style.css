@@ -5,7 +5,5 @@ height : auto;
 }
 .photoidentite {
   img {
-  max-width : 100px;
-height : auto;
-  margin-right: auto;
+    margin-right: auto;
 }
