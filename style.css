@@ -7,9 +7,9 @@ background-color: pink;
 max-width : 150px;
 height : auto;
 }
- li {
+li {
   list-style-type: square;
 }
- h1 {
-  em;
- }
+h1 {
+ font-style: italic;
+}
