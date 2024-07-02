@@ -6,25 +6,4 @@ max-width : 220px;
 height : auto;
 float: right
 }
-li {
-list-style-type: square;
-}
-h2 {
-font-style: italic;
-}
-.banniere {
-    padding: 100px; /* Vous ne connaissez pas encore cette propriété mais elle permet d'ajouter de l'espace dans notre élément*/
-    background-image: url('ERP.jpeg');
-}
-.experte {
-background-color: hsl(270deg, 50%, 75%);
-}
-.mondedutravail {
-background-color: green
-}
-.technique {
-background-color: yellow
-}
-body {
-    background-color: pink; /* Le fond de la page sera rose */
-   }
+
