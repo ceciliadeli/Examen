@@ -4,6 +4,7 @@
  img {
 max-width : 150px;
 height : auto;
+float: right
 }
 li {
 list-style-type: square;
