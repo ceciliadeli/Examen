@@ -9,3 +9,6 @@ height : auto;
 height : auto;
     margin-right: auto;
 }
+ li {
+  list-style-type: none;
+}
