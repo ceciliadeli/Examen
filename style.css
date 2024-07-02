@@ -2,9 +2,9 @@
 }
 .photo {
  img {
-max-width : 150px;
+max-width : 220px;
 height : auto;
-float: center
+float: right
 }
 li {
 list-style-type: square;
