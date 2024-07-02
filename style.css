@@ -1,14 +1,18 @@
+.infospersos {
+width: 40%;
+background-color: pink;
+}
+.photo {
+float: right;
+} 
 .photo {
  img {
 max-width : 150px;
 height : auto;
 }
-.photoidentite {
-  img {
-   max-width : 100px;
-height : auto;
-    margin-right: auto;
-}
  li {
-  list-style-type: none;
+  list-style-type: square;
 }
+ h1 {
+  em;
+ }
