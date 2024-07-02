@@ -1,14 +1,13 @@
 .infospersos {
 width: 40%;
 background-color: pink;
+float: left;
 }
-.photo {
-float: right;
-} 
 .photo {
  img {
 max-width : 150px;
 height : auto;
+float: right;
 }
  li {
   list-style-type: square;
