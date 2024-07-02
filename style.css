@@ -12,3 +12,6 @@ list-style-type: square;
 h2 {
 font-style: italic;
 }
+.input {
+ float: right
+}
