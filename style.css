@@ -21,4 +21,6 @@ background-color: green
 .technique {
 background-color: yellow
 }
-
+body {
+    background-color: pink; /* Le fond de la page sera rose */
+   }
